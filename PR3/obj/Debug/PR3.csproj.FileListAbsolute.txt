@@ -1,0 +1,10 @@
+C:\Users\ADM\Desktop\PR3\PR3\bin\Debug\PR3.exe.config
+C:\Users\ADM\Desktop\PR3\PR3\bin\Debug\PR3.exe
+C:\Users\ADM\Desktop\PR3\PR3\bin\Debug\PR3.pdb
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.MainForm.resources
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.exe
+C:\Users\ADM\Desktop\PR3\PR3\obj\Debug\PR3.pdb
